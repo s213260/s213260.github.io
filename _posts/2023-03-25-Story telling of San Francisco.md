@@ -4,6 +4,7 @@ title: "Interective data from Sant Francisco"
 categories: misc
 ---
 
-<iframe src="crime_plot.html" width="100%" height="500px"></iframe>
 
-file:///C:/Users/Andreu/Documents/2.-%20FORMACI%C3%93/2.-%20DTU/MSc_TRNS_LGSTCS/Spring%202023/02806_SocialDataAnalysiVisualization/Assignment2_StoryTelling/SubmissionAssignment1%20-%20copia/crime_histogram.html
+![bokeh_plot](https://user-images.githubusercontent.com/98801431/228070509-f7440e1f-970f-443b-b5f6-ef8a0ac4dc2f.png)
+
+The plot should be interective. It is a plot made by bokeh
