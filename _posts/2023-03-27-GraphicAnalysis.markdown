@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mapping"
+title: "The Map of San Francisco Crime: Understanding District Patterns"
 categories: misc
 ---
 In recent years, San Francisco has experiencied a rise in crimes rates, particulary in certain districts of the city. The map creates using the SF Crime Data from 2003 to 2018 shows that the Southern and Mission Districts have the highest number of crimes reported, while the Richmond and Travala districts have the lowest.
