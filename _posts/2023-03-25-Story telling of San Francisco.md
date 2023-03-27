@@ -4,4 +4,4 @@ title: "Story telling of San Francisco crimes evolution"
 categories: misc
 ---
 
-<img src="crime_plot.html">
+<iframe src="crime_plot.html" width="100%" height="500px"></iframe>
