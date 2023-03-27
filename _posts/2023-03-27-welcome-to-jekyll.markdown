@@ -31,8 +31,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ---
 layout: post
+title:  "Story"
 title: "My Story"
-date: 2023-03-27
+date: 
+date:  2023-03-27 15:33:52 +0200
+categories: jekyll update
 ---
 After analyzing the San Francisco Crime Data from 2003 to 2015, it was found that the overall crime rate in the city had significantly decreased during this period. This trend is particularly notable in the category of property crimes.
 In 2003, the number of reported property crimes in San Francisco was 56,759, while in 2015, the number had decreased to 36,013, a reduction of 36.5%. Property crimes include burglary, larceny-theft, motor vehicle theft, and arson.
