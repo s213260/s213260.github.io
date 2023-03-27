@@ -7,8 +7,8 @@ description: This is a story of the recorded crime data from the city during 200
 theme: minima
 
 # Uncomment the following line if you want to use the jekyll-feed plugin
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
 
 # Uncomment the following line if you want to use a remote theme
 # remote_theme: "mmistakes/minimal-mistakes"
