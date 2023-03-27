@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Analysis visualization"
+title:  "Crime analysis visualization of a monthly time series in San Francisco"
 date:   2023-03-27 15:32:52 +0200
 categories: jekyll update
 ---
