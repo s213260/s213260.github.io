@@ -5,5 +5,16 @@ description: This is a story of the recorded crime data from the city during 200
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+
+# Uncomment the following line if you want to use the jekyll-feed plugin
+# plugins:
+#   - jekyll-feed
+
+# Uncomment the following line if you want to use a remote theme
+# remote_theme: "mmistakes/minimal-mistakes"
+
+# Uncomment and modify the following lines if you want to add a custom title, description, author, and URL for your site
+# title: Your Site Title
+# description: A brief description of your site
+# author: Your Name
+# url: "https://your-site-url.com"
