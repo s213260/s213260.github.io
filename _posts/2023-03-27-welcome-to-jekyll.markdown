@@ -33,7 +33,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 layout: post
 title:  "Story"
 title: "My Story"
-date: 
 date:  2023-03-27 15:33:52 +0200
 categories: jekyll update
 ---
